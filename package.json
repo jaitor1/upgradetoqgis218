@@ -1,0 +1,10 @@
+{
+  "name": "web_scrap",
+  "version": "0.0.0",
+  "main": "server.js",
+  "dependencies": {
+      "fs":"latest",
+      "prompt": "latest",
+      "xml2js": "latest"
+  }
+}
